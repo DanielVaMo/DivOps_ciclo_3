@@ -4,6 +4,6 @@ Desarrollo de una aplicación software que permita controlar los ingresos y los 
 ### Integrantes
 - Daniel Felipe Varon Molina
 - Carlos Julián Reyes Piraligua
-- Diana Camila Capera Conde
+- Diana Camila Capera Conde, C.C 1.110.586.480
 - Alvaro Andres Angarita Ramirez
 - Ivan Daniel Silva Oyola
