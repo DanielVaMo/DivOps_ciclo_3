@@ -4,6 +4,6 @@ Desarrollo de una aplicación software que permita controlar los ingresos y los 
 ### Integrantes
 - Daniel Felipe Varon Molina
 -
--
+-Diana Camila Capera Conde
 -
 - Ivan Daniel Silva Oyola
