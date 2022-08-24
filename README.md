@@ -11,4 +11,7 @@ Desarrollo de una aplicación software que permita controlar los ingresos y los 
 
 ## Pull request de daniel varon
 ## Pull request de Andres Angarita
+## 
+
+
 ## Pull request de Carlos Reyes
