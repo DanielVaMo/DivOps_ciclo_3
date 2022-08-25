@@ -10,6 +10,7 @@ Desarrollo de una aplicación software que permita controlar los ingresos y los 
 |Carlos Julián Reyes Piraligua |Analista|
 |Diana Camila Capera Conde |Product owner|
 |Ivan Daniel Silva Oyola |Desarrollador|
+|Alvaro Andres Angarita Ramirez|Administrador de BD|
 
 
 ## Pull request de daniel varon
