@@ -44,4 +44,6 @@ public class Empleado {
     public void setRolEmpleado(Enum_RoleName rolEmpleado) {
         this.rolEmpleado = rolEmpleado;
     }
+
+
 }
