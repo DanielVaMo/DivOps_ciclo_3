@@ -1,16 +1,19 @@
-package com.example.udea.logic;
+package com.example.udea.logic.entidades;
 
 public class Empleado {
-    public String nombre;
-    public String correo;
-    public Empresa empresa;
-    public Enum_RoleName rolEmpleado;
 
-    public Empleado(String nombre, String correo, Empresa empresa, Enum_RoleName rolEmpleado) {
+    private String cedula;
+    private String nombre;
+    private String correo;
+    private Empresa empresa;
+    private Enum_RoleName rolEmpleado;
+
+    public Empleado(String nombre, String correo, Empresa empresa, Enum_RoleName rolEmpleado, String cedula) {
         this.nombre = nombre;
         this.correo = correo;
         this.empresa = empresa;
         this.rolEmpleado = rolEmpleado;
+        this.cedula = cedula;
     }
 
     public String getNombre() {
@@ -45,5 +48,11 @@ public class Empleado {
         this.rolEmpleado = rolEmpleado;
     }
 
+    public String getCedula() {
+        return cedula;
+    }
 
+    public void setCedula(String cedula) {
+        this.cedula = cedula;
+    }
 }

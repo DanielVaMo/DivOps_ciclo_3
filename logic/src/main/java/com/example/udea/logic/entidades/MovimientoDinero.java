@@ -1,4 +1,4 @@
-package com.example.udea.logic;
+package com.example.udea.logic.entidades;
 
 public class MovimientoDinero {
     public double montoMovimiento;
